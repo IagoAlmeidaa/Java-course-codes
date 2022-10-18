@@ -32,4 +32,6 @@ primitivos. Boxing e UnBoxing são naturais na lingaquem.
 Ou seja basicamente tem o objetivo de tratar os tipos
 primitivos como classes sem precisar de tratamento.
 
-Matriz ->
+Matriz -> Uma matriz é um vetor de vetores, todos de mesmo tamanho. Em Java, 
+é possível criar um vetor de vetores onde cada elemento tem um tamanho diferente. 
+Nesse caso, cada elemento deve ser criado de forma independente.
