@@ -1,7 +1,6 @@
 package Array;
 
 public class Produto {
-
         private String name;
         private double price;
         
