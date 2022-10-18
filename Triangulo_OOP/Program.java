@@ -32,7 +32,6 @@ class program {
         } else {
             System.out.println("Area maior do y");
         }
-
         sc.close();
 
     }

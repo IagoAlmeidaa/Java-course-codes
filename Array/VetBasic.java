@@ -1,4 +1,5 @@
-package arrays;
+
+package Array;
 import java.util.Scanner;
 
 public class VetBasic {

@@ -1,4 +1,4 @@
-package arrays;
+package Array;
 
 public class Produto {
 
